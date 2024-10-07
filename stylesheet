@@ -1,0 +1,33 @@
+body{
+	background-color: #F8F8FF;
+}
+
+h1{
+	color: #CD143C;
+	text-shadow:0 0 0 2px rgb(68, 69, 69);
+	font-family: times new roman, arial;
+  font-weight: Bold;
+}
+
+h2{
+	color: #000000;
+	text-shadow:0 0 2px rgb(68, 69, 69);
+	font-family: times new roman, arial;
+  font-weight: Bold;
+}
+
+h3{
+	color: #000000;
+	text-shadow:0 0 2px rgb(68, 69, 69);
+	font-family: times new roman, arial;
+  font-weight: Bold;
+}
+
+p{
+	color: black;
+	font-family: times new roman, arial;
+}
+
+a:visited{
+	color: black;
+}
