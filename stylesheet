@@ -29,5 +29,5 @@ p{
 }
 
 a:visited{
-	color: black;
+	color: #CD143C;
 }
