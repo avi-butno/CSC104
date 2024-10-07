@@ -1,0 +1,37 @@
+body{
+	background: -webkit-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: -moz-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: -o-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: linear-gradient(to right, #00FF00, #000000, #00aa00);
+	color: #ffffff;
+}
+
+h1{
+	color: #CD143C;
+	text-shadow:0 0 2px rgb(68, 69, 69);
+    font-family: 'Times New Roman', Times, serif;
+	font-weight: Bold;
+}
+
+h2{
+	color: #000000;
+	text-shadow:0 0 2px rgb(68, 69, 69);
+    font-family: 'Times New Roman', Times, serif;
+	font-weight: Bold;
+}
+
+h3{
+	color: #ffbbbb;
+	text-shadow:0 0 2px rgb(68, 69, 69);
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: Bold;
+}
+
+p{
+	color: #000000;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+a:visited{
+	color: aqua;
+}
