@@ -7,29 +7,29 @@ body{
 }
 
 h1{
-	color: crimson;
+	color: #dc143c;
 	text-shadow:0 0 2px gray;
 	font-family: times new roman, arial;
 }
 
 h2{
-	color: black;
+	color: #000000;
 	text-shadow:0 0 2px gray;
 	font-family: times new roman, arial;
 }
 
 h3{
-	color: black;
+	color: #000000;
 	text-shadow:0 0 2px gray;
 	font-family: times new roman, arial;
 }
 
 p{
-	color: #00bbbb;
-	text-shadow:0 0 2px purple;
+	color: #000000;
+	text-shadow:0 0 2px gray;
 	font-family: times new roman, arial;
 }
 
 a:visited{
-	color: aqua;
+	color: crimson;
 }
